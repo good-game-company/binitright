@@ -83,8 +83,10 @@ const wasteDatabase = {
       "blanket": "Dry Waste",
       "blinkit bag": "Dry Waste",
       "board game pieces": "Dry Waste",
+      "broken wooden chair": "Dry Waste",
       "broken toy": "Dry Waste",
       "broken plastic chair": "Dry Waste",
+      "broken photo frame": "Dry Waste",
       "brown tape": "Dry Waste",
       "bubble wrap": "Dry Waste",
       "burger box": "Dry Waste",
@@ -575,6 +577,7 @@ const wasteDatabase = {
   // Tip: Wrap hazardous
   "naked blades like 7 o'clock": "If it is broken or sharp, wrap it in old newspaper or cloth before disposing.",
   "broken glass": "If it is broken or sharp, wrap it in old newspaper or cloth before disposing.",
+  "broken photo frame": "If it is broken or sharp, wrap it in old newspaper or cloth before disposing.",
   "glass pieces": "If it is broken or sharp, wrap it in old newspaper or cloth before disposing.",
   "syringe": "If it is broken or sharp, wrap it in old newspaper or cloth before disposing.",
   "injection needle": "If it is broken or sharp, wrap it in old newspaper or cloth before disposing.",
